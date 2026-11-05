@@ -1,0 +1,6 @@
+{
+  "name": "College Notice Board",
+  "description": "Modern College Notice Board application built with Material 3 design, real persistent storage, department filtering, search, bookmarks, and complete Flutter/Dart source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
